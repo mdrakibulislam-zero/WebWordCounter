@@ -9,7 +9,7 @@ src="https://github.com/mdrakibulislam-zero/WebWordCounter/blob/main/Outcome.png
 
 
 ## What Have I Done:
-I've made this word counter program using HTML, CSS and JavaScript.
+I've made this word counter program using HTML, CSS and JavaScript. When I was creating this project my special focus was UI design.
 
 
 ## Required Skills:
